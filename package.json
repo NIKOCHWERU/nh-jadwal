@@ -14,7 +14,7 @@
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.20.1",
     "@supabase/supabase-js": "^2.39.0",
-    "iconify-react": "^4.1.1"
+    "@iconify/react": "^4.1.1"
   },
   "devDependencies": {
     "@types/react": "^18.2.43",
